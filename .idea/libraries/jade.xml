@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jade">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/jade.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/mason.19.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" />
+  </library>
+</component>
